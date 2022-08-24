@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "65902580112",
+    "project_id": "rockethelp-b2c6a",
+    "storage_bucket": "rockethelp-b2c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65902580112:android:e5ec9c550c071b850aa315",
+        "android_client_info": {
+          "package_name": "com.messias.barreto.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65902580112-p6vmcueoq1ms0l7ni850vbt3rsog1t4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWiTrvEK7cmkgcXKu7PJn6SNuQO996SCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65902580112-p6vmcueoq1ms0l7ni850vbt3rsog1t4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65902580112-hjl6cb64cbja3grcf18hi7l7bmkiv6kt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.messias.barreto.rockethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

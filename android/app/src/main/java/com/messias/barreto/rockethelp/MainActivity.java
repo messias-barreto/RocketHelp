@@ -1,4 +1,4 @@
-package com.rockethelp;
+package com.messias.barreto.rockethelp;
 
 import android.os.Build;
 import android.os.Bundle;
